@@ -4,4 +4,4 @@ deploy:
 	rm -rf docs/browser
 	git add .
 	git commit -m "deploy"
-	git push origin master
+	git push
